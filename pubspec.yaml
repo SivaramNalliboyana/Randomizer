@@ -1,7 +1,6 @@
 name: randomizer
 description: A new Flutter package which helps in picking random color, random element and many more
-version: 0.0.1
-author: Sivaram Nalliboyana <nsivaramdav@gmail.com>
+version: 0.0.2
 homepage: https://github.com/GrandmasterSivaram/Randomizer
 
 environment:

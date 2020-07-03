@@ -5,7 +5,8 @@ import 'dart:math';
 
 class Randomizer{
   Color getrandomcolor(){
-    List<Color> randomcolors = [Colors.purple,Colors.red,Colors.green,Colors.blue,Colors.amber,Colors.pink];
+    List<Color> randomcolors = [Colors.purple,Colors.red,Colors.green,Colors.blue,Colors.amber,Colors.pink,Colors.brown,
+    Colors.grey,Colors.lightBlue,Colors.indigo,Colors.yellow];
     return randomcolors[Random().nextInt(randomcolors.length)];
   }
 
