@@ -1,6 +1,6 @@
 # randomizer
 
-A new Flutter package which helps in picking random color, random element and many more
+A new Flutter package which helps in picking random color, random element from list, random numbers and many more
 
 ## Usage
 
