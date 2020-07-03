@@ -2,6 +2,8 @@
 
 A new Flutter package which helps in picking random color, random element from list, random numbers and many more
 
+## Tutorial
+* Full Youtube tutorial on how do make this is available in https://youtu.be/wH2eVfqySSA
 ## Usage
 
 * add the dependency to your [pubspec.yaml]
