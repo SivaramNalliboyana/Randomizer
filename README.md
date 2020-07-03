@@ -2,7 +2,38 @@
 
 A new Flutter package which helps in picking random color, random element and many more
 
+## Usage
+
+* add the dependency to your [pubspec.yaml]
+
+```yaml
+  dependencies:
+    flutter:
+      sdk: flutter
+    randomizer:
+```
+* some usage
+```dart
+// create a instance of randomizer
+Randomizer randomizer = Randomizer();
+
+// getrandomcolor
+randomizer.getrandomcolor();
+
+// get your wished random colors
+randomizer.getspecifiedcolor([Colors.red,Colors.green]);
+
+// get random element from  a list
+randomizer.getrandomelementfromlist(['Hello','Hallo','How are you']);
+
+// get random number with provided ranges
+randomizer.getrandomnumber(3,78); // pick random number between 3 and 78
+
+```
+
+
 ## Getting Started
+
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
